@@ -6,7 +6,7 @@ document.write(`
             <div class="d-inline-flex align-items-center" style="height: 45px;">
                 <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Sector 40, Gurgaon</small>
                 <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+91 9810 625 129</small>
-                <small class="text-light"><i class="fa fa-envelope-open me-2"></i>mkgupta@businessgrowthconsultancy.in</small>
+                <small class="text-light"><i class="fa fa-envelope-open me-2"></i>support@businessgrowthconsultancy.in</small>
             </div>
         </div>
         <div class="col-lg-4 text-center text-lg-end">
