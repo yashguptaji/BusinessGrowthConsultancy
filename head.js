@@ -29,5 +29,7 @@ document.write(`
 
 <!-- Template Stylesheet -->
 <link href="css/style.css" rel="stylesheet">
+
+
 </head>
 `);
