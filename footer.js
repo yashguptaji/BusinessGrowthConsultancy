@@ -27,7 +27,7 @@ document.write(`<div class="container-fluid bg-dark text-light mt-5 wow fadeInUp
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
-                                <p class="mb-0">mkgupta@businessgrowth consultancy.in</p>
+                                <p class="mb-0">support@businessgrowth consultancy.in</p>
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-telephone text-primary me-2"></i>
@@ -45,9 +45,9 @@ document.write(`<div class="container-fluid bg-dark text-light mt-5 wow fadeInUp
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Consulting</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Audit</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Training</a>
+                                <a class="text-light mb-2" href="service.html#consultancy"><i class="bi bi-arrow-right text-primary me-2"></i>Consulting</a>
+                                <a class="text-light mb-2" href="service.html#audit"><i class="bi bi-arrow-right text-primary me-2"></i>Audit</a>
+                                <a class="text-light mb-2" href="service.html#training"><i class="bi bi-arrow-right text-primary me-2"></i>Training</a>
 
                             </div>
                         </div>
@@ -56,11 +56,11 @@ document.write(`<div class="container-fluid bg-dark text-light mt-5 wow fadeInUp
                                 <h3 class="text-light mb-0">Popular Links</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
-                                <a class="text-light" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
+                                <a class="text-light mb-2" href="index.html"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                                <a class="text-light mb-2" href="about.html"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+                                <a class="text-light mb-2" href="services.html"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
+                                <a class="text-light mb-2" href="team.html"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
+                                <a class="text-light" href="contact.html"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                             </div>
                         </div>
                     </div>
