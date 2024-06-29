@@ -21,7 +21,7 @@ document.write(`<div class="container-fluid bg-dark text-light mt-5 wow fadeInUp
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
-                                <p class="mb-0">support@businessgrowth consultancy.in</p>
+                                <p class="mb-0">support@businessgrowthconsultancy.in</p>
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-telephone text-primary me-2"></i>
@@ -29,7 +29,7 @@ document.write(`<div class="container-fluid bg-dark text-light mt-5 wow fadeInUp
                             </div>
                             
                         </div>
-                        <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
+                        <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5 " style="margin-left: 100px;"  >
                             <div class="section-title section-title-sm position-relative pb-3 mb-4">
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
@@ -41,11 +41,11 @@ document.write(`<div class="container-fluid bg-dark text-light mt-5 wow fadeInUp
 
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
-                            <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                                <h3 class="text-light mb-0">Popular Links</h3>
+                        <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5"  style="margin-left: -100px;" >
+                            <div class="section-title section-title-sm position-relative pb-3 mb-4 " style=" left:75px;">
+                                <h3 class="text-light mb-0" >Links</h3>
                             </div>
-                            <div class="link-animated d-flex flex-column justify-content-start">
+                            <div class="link-animated d-flex flex-column justify-content-start" style="padding-left:75px;">
                                 <a class="text-light mb-2" href="index.html"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
                                 <a class="text-light mb-2" href="about.html"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
                                 <a class="text-light mb-2" href="service.html"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
